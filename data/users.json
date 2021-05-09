@@ -1,0 +1,16 @@
+[
+ {
+  "id": 1,
+  "name": "apellido",
+  "email": "@",
+  "password": "contraseña",
+  "image": "x.jpg"
+ },
+ {
+  "id": 2,
+  "profileimg": "",
+  "name": "Jose Jose",
+  "email": "Jose@Jose.com",
+  "password": "$2a$10$fA01N3EaIbXKBq4qVQUnuujX6pHxILSBy98jHIc.mXTMSzXgMR2Wm"
+ }
+]
